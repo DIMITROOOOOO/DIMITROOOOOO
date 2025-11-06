@@ -29,15 +29,13 @@ Always curious, always learning, always coding. ⚡
 
 ---
 
-### 👥 Leadership
-**President**, IEEE ISET Rades Student Branch – *Computer Society Chapter*  
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-yessine-bessrour&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-yessine-bessrour&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DIMITROOOOOO&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMITROOOOOO&layout=compact&theme=tokyonight" height="160px"/>
 </p>
 
 ---
